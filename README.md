@@ -51,7 +51,7 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zml) 
 
-Email: avamingli@gmail.com
+Email: avamingli@gmail.com, zmlpostgres@gmail.com
 
 Wechat:
 
