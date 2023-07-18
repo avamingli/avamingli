@@ -47,7 +47,7 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
 
 
-# Contact me, Hashdata is hiring!
+# Contact me, Hashdata is hiring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zml) 
 
@@ -56,6 +56,8 @@ Email: avamingli@gmail.com, zmlpostgres@gmail.com
 Wechat:
 
 <img src="./wechat.jpeg" width="200" height="200">
+
+[See jobs in Hashdata](https://app.mokahr.com/social-recruitment/hashdata/58043#/jobs?zhineng=84985)
 
 <!--
 ### 🔝 Top Contributed Repo
