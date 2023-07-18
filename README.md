@@ -33,9 +33,15 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 **[Issues](https://github.com/greenplum-db/gpdb/issues?q=is%3Aissue+author%3Aavamingli+)**
 
-## Blogs 
+## Others
 
-### Greenplum Distributed Transaction(upcoming)
+**Ginkgo** https://github.com/onsi/ginkgo/pull/609
+
+**evans** https://github.com/ktr0731/evans
+
+# Blogs 
+
+## Greenplum Distributed Transaction(upcoming)
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
 
 
