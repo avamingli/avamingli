@@ -46,7 +46,8 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 Email: avamingli@gmail.com
 
 Wechat:
-![image info](./wechat.jpeg)
+
+<img src="./wechat.jpeg" width="200" height="200">
 
 <!--
 ### 🔝 Top Contributed Repo
