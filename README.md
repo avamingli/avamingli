@@ -14,18 +14,20 @@
 **Currently working on [Cloudberry Database](https://github.com/cloudberrydb/cloudberrydb)**
 
 
-# Open source Contributions
+# Open Source Contributions
 
 ## What I do for Postgres: 
 
+**[Postgres Contributor Acknowledgement(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
+
+**[Company Article](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)**
+
+**Contributions details:** https://github.com/search?q=repo%3Apostgres%2Fpostgres+Zhang+Mingli&type=commits&s=committer-date&o=desc
+
+Or in the code base
 ```c
 git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 ```
-
-**[Postgres Contributor(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
-
-**[Article](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)**
-
 
 ## What I do for Greenplum:
 
