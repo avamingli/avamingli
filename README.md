@@ -9,7 +9,7 @@
 
 **Greenplum Developer(2019-2022, Pivotal/VMware)**
 
-**Currently working for [Hashdata](www.hashdata.cn)**
+**Currently working for [Hashdata](https://www.hashdata.xyz/)**
 
 **Currently working on [Cloudberry Database](https://github.com/cloudberrydb/cloudberrydb)**
 
