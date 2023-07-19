@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Zhang Mingli</h1>
 
-#  About Me:
+# About Me:
 
 **Database developer(Postgres/Greenplum/Cloudberry)**
 
