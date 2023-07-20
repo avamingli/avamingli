@@ -11,7 +11,7 @@
 
 **Currently working for [Hashdata](https://www.hashdata.xyz/)**
 
-**Currently working on [Cloudberry Database(open source now)](https://github.com/cloudberrydb/cloudberrydb)**
+**Currently working on [Cloudberry Database(open source now, announce later)](https://github.com/cloudberrydb/cloudberrydb)**
 
 
 # Open Source Contributions
