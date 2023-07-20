@@ -57,7 +57,7 @@ Wechat:
 
 <img src="./wechat.jpeg" width="200" height="200">
 
-[See jobs in Hashdata](https://app.mokahr.com/social-recruitment/hashdata/58043#/jobs?zhineng=84985)
+[See jobs in Hashdata](https://app.mokahr.com/recommendation-apply/hashdata/58045?recommendCode=NTAQMF1&hash=%23%2Fjobs%3Fzhineng%3D84985)
 
 <!--
 ### 🔝 Top Contributed Repo
