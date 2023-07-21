@@ -53,10 +53,10 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 Email: avamingli@gmail.com, zmlpostgres@gmail.com
 
+<!--
 Wechat:
-
 <img src="./wechat.jpeg" width="200" height="200">
-
+-->
 [Apply jobs in Hashdata](https://app.mokahr.com/recommendation-apply/hashdata/58045?recommendCode=NTAQMF1&hash=%23%2Fjobs%3Fzhineng%3D84985)
 
 <!--
