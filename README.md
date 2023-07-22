@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Zhang Mingli</h1>
+<h1 align="center">Hi, I'm Zhang Mingli</h1>
 
 # About Me:
 
@@ -50,8 +50,6 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 # Contact me, Hashdata is hiring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zml) 
-
-Email: avamingli@gmail.com, zmlpostgres@gmail.com
 
 <!--
 Wechat:
