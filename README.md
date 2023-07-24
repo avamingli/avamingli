@@ -43,6 +43,7 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 # Blogs 
 
+## A story about Cloudberry Database Parallel Plan(upcoming.. if have time)
 ## Greenplum Distributed Transaction(upcoming)
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
 
