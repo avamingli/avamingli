@@ -5,9 +5,9 @@
 
 **Database developer(Postgres/Greenplum/Cloudberry)**
 
-**[Postgres Contributor](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
+**Postgres Contributor**
 
-**Greenplum Developer(2019-2022, Pivotal/VMware)**
+**Greenplum Committer(2019-2022, Pivotal/VMware)**
 
 **Currently working for [Hashdata](https://www.hashdata.xyz/)**
 
