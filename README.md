@@ -18,7 +18,9 @@
 
 ## What I do for Postgres: 
 
-**[Postgres Contributor Acknowledgement(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
+**[Postgres 15 Contributor Acknowledgement(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
+
+**[Postgres 16 Contributor Acknowledgement(Mingli Zhang)](https://www.postgresql.org/docs/16/release-16.html#RELEASE-16-ACKNOWLEDGEMENTS)**
 
 **[Company Article](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)**
 
