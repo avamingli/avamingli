@@ -13,25 +13,30 @@
 
 **Currently working on [Cloudberry Database(open source now, announce later)](https://github.com/cloudberrydb/cloudberrydb)**
 
+**interviews:**
+
+  https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g
+  
+  https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw?poc_token=HGiJN2WjNDpMbGc7WzvEv47nBCVnDdeuM7ugEWZl
+
 
 # Open Source Contributions
 
-## What I do for Postgres: 
+## Postgres: 
 
 **[Postgres 15 Contributor Acknowledgement(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
 
 **[Postgres 16 Contributor Acknowledgement(Mingli Zhang)](https://www.postgresql.org/docs/16/release-16.html#RELEASE-16-ACKNOWLEDGEMENTS)**
 
-**[Company Article](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)**
-
+<!--
 **Contributions details:** https://github.com/search?q=repo%3Apostgres%2Fpostgres+Zhang+Mingli&type=commits&s=committer-date&o=desc
 
 Or in the code base
 ```c
 git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 ```
-
-## What I do for Greenplum:
+-->
+## Greenplum:
 
 **[Pull Requests](https://github.com/greenplum-db/gpdb/pulls?q=is%3Apr+author%3Aavamingli+)**
 
@@ -42,15 +47,15 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 **Ginkgo** https://github.com/onsi/ginkgo/pull/609
 
 **evans** https://github.com/ktr0731/evans
-
+<!--
 # Blogs 
 
 ## A story about Cloudberry Database Parallel Plan(upcoming.. if have time)
 ## Greenplum Distributed Transaction(upcoming)
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
+-->
 
-
-# Contact me, Hashdata is hiring
+# Hashdata is hiring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zml) 
 
