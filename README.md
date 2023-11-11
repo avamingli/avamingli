@@ -8,9 +8,9 @@
 **Postgres Contributor**
 
 **Greenplum Committer(2019-2022, Pivotal/VMware)**
-
+<!--
 **Currently working for [HashData](https://www.hashdata.xyz/)**
-
+-->
 **Currently working on [Cloudberry Database(open source now, announce later)](https://github.com/cloudberrydb/cloudberrydb)**
 
 **interviews:**
@@ -44,9 +44,9 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 ## Others
 
-**Ginkgo** https://github.com/onsi/ginkgo/pull/609
+**[Ginkgo](https://github.com/onsi/ginkgo/pull/609)**
 
-**evans** https://github.com/ktr0731/evans
+**[evans](https://github.com/ktr0731/evans)**
 <!--
 # Blogs 
 
