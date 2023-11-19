@@ -19,6 +19,9 @@
   
   https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw?poc_token=HGiJN2WjNDpMbGc7WzvEv47nBCVnDdeuM7ugEWZl
 
+# Blogs 
+
+[【PostgreSQL技术内幕（十二）：CloudberryDB并行化查询之路】](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
 
 # Open Source Contributions
 
@@ -47,10 +50,9 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 **[Ginkgo](https://github.com/onsi/ginkgo/pull/609)**
 
 **[evans](https://github.com/ktr0731/evans)**
-<!--
-# Blogs 
 
-## A story about Cloudberry Database Parallel Plan(upcoming.. if have time)
+
+<!--
 ## Greenplum Distributed Transaction(upcoming)
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
 -->
