@@ -17,7 +17,7 @@
 
   https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g
   
-  https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw?poc_token=HGiJN2WjNDpMbGc7WzvEv47nBCVnDdeuM7ugEWZl
+  https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw
 
 # Tech Talk 
 
