@@ -61,8 +61,9 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 Wechat:
 <img src="./wechat.jpeg" width="200" height="200">
 -->
+<!--
 [Apply jobs in Hashdata](https://app.mokahr.com/recommendation-apply/hashdata/58045?recommendCode=NTAQMF1&hash=%23%2Fjobs%3Fzhineng%3D84985)
-
+-->
 <!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=avamingli&limit=5&theme=dark&combine_all_yearly_contributions=true)
