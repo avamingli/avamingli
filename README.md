@@ -57,10 +57,6 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 [Fix DistributedTransaction related issue](https://github.com/greenplum-db/gpdb/pull/13810)
 -->
 
-# Hashdata is hiring
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zml) 
-
 <!--
 Wechat:
 <img src="./wechat.jpeg" width="200" height="200">
