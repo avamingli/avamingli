@@ -11,7 +11,7 @@
 <!--
 **Currently working for [HashData](https://www.hashdata.xyz/)**
 -->
-**Currently working on [Cloudberry Database(open source now, announce later)](https://github.com/cloudberrydb/cloudberrydb)**
+**Currently working on [Cloudberry Database(https://github.com/cloudberrydb/cloudberrydb)**
 
 **interviews:**
 
@@ -45,12 +45,13 @@ git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 
 **[Issues](https://github.com/greenplum-db/gpdb/issues?q=is%3Aissue+author%3Aavamingli+)**
 
+<!--
 ## Others
 
 **[Ginkgo](https://github.com/onsi/ginkgo/pull/609)**
 
 **[evans](https://github.com/ktr0731/evans)**
-
+-->
 
 <!--
 ## Greenplum Distributed Transaction(upcoming)
