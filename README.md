@@ -11,7 +11,7 @@
 <!--
 **Currently working for [HashData](https://www.hashdata.xyz/)**
 -->
-**Currently working on [Cloudberry Database(https://github.com/cloudberrydb/cloudberrydb)**
+**Currently working on [Cloudberry Database](https://github.com/cloudberrydb/cloudberrydb)**
 
 **interviews:**
 
