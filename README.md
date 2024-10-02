@@ -3,7 +3,7 @@
 
 # About Me:
 
-**Database developer(Postgres/Greenplum/Cloudberry)**
+**Database Kernel Developer(Postgres/Greenplum/Cloudberry)**
 
 **Postgres Contributor**
 
