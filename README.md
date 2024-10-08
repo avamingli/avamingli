@@ -5,7 +5,7 @@
 
 **Database Kernel Developer(Postgres/Greenplum/Cloudberry)**
 
-**Postgres Contributor**
+**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/)**
 
 **Greenplum Committer(2019-2022, Pivotal/VMware)**
 <!--
@@ -23,6 +23,7 @@
 
 [【PostgreSQL技术内幕（十二）：CloudberryDB并行化查询之路】](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
 
+<!--
 # Open Source Contributions
 
 ## Postgres: 
@@ -30,7 +31,7 @@
 **[Postgres 15 Contributor Acknowledgement(Zhang Mingli)](https://www.postgresql.org/docs/current/release-15.html#RELEASE-15-ACKNOWLEDGEMENTS)**
 
 **[Postgres 16 Contributor Acknowledgement(Mingli Zhang)](https://www.postgresql.org/docs/16/release-16.html#RELEASE-16-ACKNOWLEDGEMENTS)**
-
+-->
 <!--
 **Contributions details:** https://github.com/search?q=repo%3Apostgres%2Fpostgres+Zhang+Mingli&type=commits&s=committer-date&o=desc
 
@@ -38,12 +39,13 @@ Or in the code base
 ```c
 git log --grep='Mingli Zhang' --grep='Zhang Mingli'  --oneline
 ```
--->
+
 ## Greenplum:
 
 **[Pull Requests](https://github.com/greenplum-db/gpdb/pulls?q=is%3Apr+author%3Aavamingli+)**
 
 **[Issues](https://github.com/greenplum-db/gpdb/issues?q=is%3Aissue+author%3Aavamingli+)**
+-->
 
 <!--
 ## Others
