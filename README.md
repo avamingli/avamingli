@@ -15,6 +15,10 @@
 
 **interviews:**
 
+  https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw
+  
+  https://mp.weixin.qq.com/s/hyuxaWyGCS51-ID2rqLXmw
+  
   https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g
   
   https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw
@@ -22,6 +26,8 @@
 # Tech Talk 
 
 [【PostgreSQL技术内幕（十二）：CloudberryDB并行化查询之路】](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
+
+[【Answer Query Using Materizlied Views/利用物化视图进行查询改写】](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
 
 <!--
 # Open Source Contributions
