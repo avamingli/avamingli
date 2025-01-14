@@ -29,6 +29,11 @@
 
 [【Answer Query Using Materizlied Views/利用物化视图进行查询改写】](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
 
+# 我也会在下面微信公众号上不定期投稿分享数据库技术，欢迎关注
+![WechatIMG530](https://github.com/user-attachments/assets/da20253a-d3c2-42d3-8141-62cdffd69e0b)
+
+
+
 <!--
 # Open Source Contributions
 
