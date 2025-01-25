@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Zhang Mingli</h1>
 
-# Database Kernel Developer(Postgres, Greenplum, Cloudberry):
+# Database Kernel Developer:
 
 **Postgres Recognized Contributor** [New PostgreSQL Contributors](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)
 <!--
