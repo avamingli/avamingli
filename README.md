@@ -20,14 +20,15 @@
 ## Unveiling the Kernel: A Deep Dive into Postgres and MPP Databases (Chinese)
   * [Postgres内核代码100万行，怎么读?](https://mp.weixin.qq.com/s/YPeZ6LjR-Zlf4ZhkPhUqvA?token=240283712&lang=zh_CN)
   * [探索Greenplum/Cloudberry：如何实现数据MPP加载](https://mp.weixin.qq.com/s/cbtbkU_h1wNWnDeiZW6riQ?token=240283712&lang=zh_CN)
-## 我也会在下面微信公众号上不定期投稿分享数据库技术
-<img src="https://github.com/user-attachments/assets/da20253a-d3c2-42d3-8141-62cdffd69e0b" alt="Description" width="200" height="200">
 
 ## Tech Talk (Chinese)
 
   * [CloudberryDB并行化查询之路](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
   * [Answer Query Using Materizlied Views/利用物化视图进行查询改写](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
 
+#### 不定期投稿，微信搜索: Postgres内核黑客
+
+ <img src="https://github.com/user-attachments/assets/da20253a-d3c2-42d3-8141-62cdffd69e0b" alt="Description" width="200" height="200">
 
 
 <!--
