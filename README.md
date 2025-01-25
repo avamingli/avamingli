@@ -5,11 +5,6 @@
 
 **Postgres Recognized Contributor** [New PostgreSQL Contributors](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)
 
-<a href="https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de" target="_blank" rel="noopener noreferrer">New PostgreSQL Contributors</a>
-
-<!--
-**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/) (Zhang Mingli)**
--->
 **Greenplum Team (2019-2022, Pivotal/VMware)**
 
 **Apache Cloudberry Major Contributor**
