@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi, I'm Zhang Mingli</h1>
 
-# About Me:
+# Database Kernel Developer(Postgres, Greenplum, Cloudberry):
 
-**Database Kernel Developer(Postgres/Greenplum/Cloudberry)**
-
-**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/) (Zhang Mingli)**
-
-**Greenplum Committer(2019-2022, Pivotal/VMware)**
+**Postgres Recognized Contributor** [New PostgreSQL Contributors](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)
 <!--
-**Currently working for [HashData](https://www.hashdata.xyz/)**
+**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/) (Zhang Mingli)**
 -->
-**[Cloudberry Database](https://github.com/cloudberrydb/cloudberrydb) Major Contributor**
+**Greenplum Team (2019-2022, Pivotal/VMware)**
+
+**Apache Cloudberry Major Contributor**
 
 ## A Journey of Passion: My Story (Chinese)
   * [第三位中国成员！CloudberryDB 核心开发者张明礼入选 PostgreSQL Contributor 名单](https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw)
