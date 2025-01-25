@@ -5,7 +5,7 @@
 
 **Database Kernel Developer(Postgres/Greenplum/Cloudberry)**
 
-**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/)**
+**[Postgres Recognized Contributor](https://www.postgresql.org/community/contributors/) (Zhang Mingli)**
 
 **Greenplum Committer(2019-2022, Pivotal/VMware)**
 <!--
@@ -13,24 +13,24 @@
 -->
 **[Cloudberry Database](https://github.com/cloudberrydb/cloudberrydb) Major Contributor**
 
-**interviews:**
+## A Journey of Passion: My Story (Chinese)
+  * [第三位中国成员！CloudberryDB 核心开发者张明礼入选 PostgreSQL Contributor 名单](https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw)
+  * [PostgreSQL 16 中国贡献者专访：张明礼](https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw)
+  * [PostgreSQL全球开发组公布 “New PostgreSQL Contributors”](https://mp.weixin.qq.com/s/hyuxaWyGCS51-ID2rqLXmw)
+  * [PostgreSQL 15发布  HashData贡献关键力量](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)
 
-  https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw
-  
-  https://mp.weixin.qq.com/s/hyuxaWyGCS51-ID2rqLXmw
-  
-  https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g
-  
-  https://mp.weixin.qq.com/s/jVSpFDQt4Sby2XyNTC7vYw
-
-# Tech Talk 
-
-[【PostgreSQL技术内幕（十二）：CloudberryDB并行化查询之路】](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
-
-[【Answer Query Using Materizlied Views/利用物化视图进行查询改写】](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
-
-### 我也会在下面微信公众号上不定期投稿分享数据库技术，欢迎关注
+## Unveiling the Kernel: A Deep Dive into Postgres and MPP Databases (Chinese)
+  * [Postgres内核代码100万行，怎么读?](https://mp.weixin.qq.com/s/YPeZ6LjR-Zlf4ZhkPhUqvA?token=240283712&lang=zh_CN)
+  * [探索Greenplum/Cloudberry：如何实现数据MPP加载](https://mp.weixin.qq.com/s/cbtbkU_h1wNWnDeiZW6riQ?token=240283712&lang=zh_CN)
+## 我也会在下面微信公众号上不定期投稿分享数据库技术
 <img src="https://github.com/user-attachments/assets/da20253a-d3c2-42d3-8141-62cdffd69e0b" alt="Description" width="200" height="200">
+
+## Tech Talk (Chinese)
+
+  * [CloudberryDB并行化查询之路](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
+  * [Answer Query Using Materizlied Views/利用物化视图进行查询改写](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
+
+
 
 <!--
 ![WechatIMG530](https://github.com/user-attachments/assets/da20253a-d3c2-42d3-8141-62cdffd69e0b)
