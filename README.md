@@ -3,7 +3,7 @@
 
 # Database Kernel Developer:
 
-**Postgres Recognized Contributor** [New PostgreSQL Contributors](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)
+**Postgres Recognized Contributor** - [View Recognition](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)  
 
 **Greenplum Team (2019-2022, Pivotal/VMware)**
 
