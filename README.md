@@ -16,6 +16,7 @@
   * [PostgreSQL 15发布  HashData贡献关键力量](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)
 
 ## Unveiling the Kernel: A Deep Dive into Postgres and MPP Databases (Chinese)
+  * [从单进程到并行化：Append-Only表并行扫描内核解析](https://mp.weixin.qq.com/s/1tGA15ZvIqqAMmbIEhgbmg)
   * [Postgres内核代码100万行，怎么读?](https://mp.weixin.qq.com/s/YPeZ6LjR-Zlf4ZhkPhUqvA?token=240283712&lang=zh_CN)
   * [探索Greenplum/Cloudberry：如何实现数据MPP加载](https://mp.weixin.qq.com/s/cbtbkU_h1wNWnDeiZW6riQ?token=240283712&lang=zh_CN)
 
