@@ -15,19 +15,16 @@
   * [PostgreSQL全球开发组公布 “New PostgreSQL Contributors”](https://mp.weixin.qq.com/s/hyuxaWyGCS51-ID2rqLXmw)
   * [PostgreSQL 15发布  HashData贡献关键力量](https://mp.weixin.qq.com/s/EqNQxY9GHYuPIAmYv1WM6g)
 
-## Unveiling the Kernel: A Deep Dive into Postgres and MPP Databases (Chinese)
+## Tech Talk (Chinese)
+![---_画板 1](https://github.com/user-attachments/assets/77908b91-4b36-4be5-81c6-1150d10f04be)
+
   * [从单进程到并行化：Append-Only表并行扫描内核解析](https://mp.weixin.qq.com/s/1tGA15ZvIqqAMmbIEhgbmg)
   * [Postgres内核代码100万行，怎么读?](https://mp.weixin.qq.com/s/YPeZ6LjR-Zlf4ZhkPhUqvA?token=240283712&lang=zh_CN)
   * [探索Greenplum/Cloudberry：如何实现数据MPP加载](https://mp.weixin.qq.com/s/cbtbkU_h1wNWnDeiZW6riQ?token=240283712&lang=zh_CN)
-
-## Tech Talk (Chinese)
-
   * [CloudberryDB并行化查询之路](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
   * [Answer Query Using Materizlied Views/利用物化视图进行查询改写](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
-<!--
-![二维码版](https://github.com/user-attachments/assets/c2602f07-07ae-49eb-8e17-009b460b11d8)
--->
-![---_画板 1](https://github.com/user-attachments/assets/77908b91-4b36-4be5-81c6-1150d10f04be)
+
+
 
 <!--
 # Open Source Contributions
