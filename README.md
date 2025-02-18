@@ -24,8 +24,10 @@
 
   * [CloudberryDB并行化查询之路](https://www.bilibili.com/video/BV1nz4y1A7jP/?share_source=copy_web&vd_source=7ab59479316c3260a8af8ad675a3150d)
   * [Answer Query Using Materizlied Views/利用物化视图进行查询改写](https://www.bilibili.com/video/BV19PyzYUESY/?vd_source=8981cae9a2ba32197a3c2fc070f1464b)
-
+<!--
 ![二维码版](https://github.com/user-attachments/assets/c2602f07-07ae-49eb-8e17-009b460b11d8)
+-->
+![---_画板 1](https://github.com/user-attachments/assets/77908b91-4b36-4be5-81c6-1150d10f04be)
 
 <!--
 # Open Source Contributions
