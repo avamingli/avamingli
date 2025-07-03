@@ -7,7 +7,9 @@
 
 **Greenplum Team (2019-2022, Pivotal/VMware)**
 
-**Apache Cloudberry Major Contributor**
+**Apache Cloudberry Major Contributor & PPMC**
+
+**PostgreSQL ACE**
 
 ## A Journey of Passion: My Story (Chinese)
   * [第三位中国成员！CloudberryDB 核心开发者张明礼入选 PostgreSQL Contributor 名单](https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw)
