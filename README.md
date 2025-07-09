@@ -7,9 +7,17 @@
 
 **Greenplum Team (2019-2022, Pivotal/VMware)**
 
-**Apache Cloudberry Major Contributor & PPMC**
-
 **PostgreSQL ACE(China PostgreSQL Association).**
+
+**Apache Cloudberry Major Contributor & PPMC**
+  
+  Founding member of Cloudberry Database, which has contributed to the development of Apache Cloudberry. Contributed to almost every component of the system, such as planner, exetutor, storage, distributed transaction, etc.
+  
+  Main maintainer of Apache Cloudberry. Much more work are done before Cloudberry is open-sourced: Upgrade kernel version from Postgres 12 to Postgres 14.
+  
+  Principal/ Sole author of significant features: Parallel Query, AQUMV(Answer Query Using Materialized Views), Dynamic Tables and etc. Critical bug fixes and much more. 
+
+
 
 ## A Journey of Passion: My Story (Chinese)
   * [第三位中国成员！CloudberryDB 核心开发者张明礼入选 PostgreSQL Contributor 名单](https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw)
