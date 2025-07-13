@@ -16,8 +16,8 @@
   &emsp;Contributed to almost every component of the system, such as planner, exetutor, storage, distributed transaction, etc.  
   &emsp;Main maintainer of Apache Cloudberry. A significant portion of the development work was completed before the project was  
   &emsp;open-sourced.  
-  &emsp;Principal/ Sole author of many significant features: Parallel Query, AQUMV(Answer Query Using Materialized Views), Dynamic Tables
-  &emsp;and etc. Critical bug fixes and much more. 
+  &emsp;Principal/ Sole author of many significant features: Parallel Query, AQUMV(Answer Query Using Materialized Views),  
+  &emsp;Dynamic Tables and etc. Critical bug fixes and much more. 
 
 # Open Source Contribution:
 ## Postgres:
