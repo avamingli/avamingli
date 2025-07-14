@@ -7,7 +7,10 @@
   Features, Bug fix and patch review.
 * **Greenplum Team (2019-2022, Pivotal/VMware/Broadcom)**
   * Greenplum Committer
-  * Main author of [Greenplum Streaming Server(GPSS)](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum-streaming-server/2-1/gp-streaming-server/overview.html), a business ETL component of Greenplum written by Golang, design and implement the architecture.
+  * Main author of Greenplum Streaming Server (GPSS), a business ETL component of Greenplum written by Golang, design and implement the architecture.
+<!--
+[Greenplum Streaming Server(GPSS)](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum-streaming-server/2-1/gp-streaming-server/overview.html)
+-->
 
 * **PostgreSQL ACE(China PostgreSQL Association).**
 
