@@ -8,9 +8,6 @@
 * **PostgreSQL ACE(China PostgreSQL Association).**
 * **Greenplum Team (2019-2022, Pivotal/VMware)**
   * Greenplum Committer & Main author of Greenplum Streaming Server (GPSS).
-<!--
-[Greenplum Streaming Server(GPSS)](https://techdocs.broadcom.com/us/en/vmware-tanzu/data-solutions/tanzu-greenplum-streaming-server/2-1/gp-streaming-server/overview.html)
--->
 * **Apache Cloudberry Major Contributor & PPMC**  
   &emsp;Founding member of Cloudberry Database, which has contributed to the development of Apache Cloudberry.   
   &emsp;Contributed to almost every component of the system, such as planner, exetutor, storage, distributed transaction, etc.  
