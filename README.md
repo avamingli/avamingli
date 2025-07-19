@@ -4,10 +4,10 @@
 # Database Kernel Developer:
 
 * **Postgres Recognized Contributor** - [View Recognition](https://www.postgresql.org/message-id/Zv_zyxTfYmG9WgXn%40msg.df7cb.de)  
-  Features, Bug fix and patch review.
+  &emsp;Features, Bug fix and patch review.
 * **PostgreSQL ACE(China PostgreSQL Association).**
-* **Greenplum Team (2019-2022, Pivotal/VMware)**
-  * Greenplum Committer & Main author of Greenplum Streaming Server (GPSS).
+* **Greenplum Team (2019-2022, Pivotal/VMware)**  
+  &emsp;Greenplum Committer & Main author of Greenplum Streaming Server (GPSS).
 * **Apache Cloudberry Major Contributor & PPMC**  
   &emsp;Founding member of Cloudberry Database, which has contributed to the development of Apache Cloudberry.   
   &emsp;Contributed to almost every component of the system, such as planner, exetutor, storage, distributed transaction, etc.  
