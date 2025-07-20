@@ -75,24 +75,26 @@ Principal Author, Design and implement the architecture of Parallel Query in Gre
 * Insert into multiple segfiles for AO/AOCS table.
 
 ##### Open source contributions:
-* Parallel DEDUP_SEMI and DEDUP_SEMI_REVERSE Join.
-* Make UNION Parallel.
-* Parallel DISTINCT plan of multi-stage. 
-* Parallel-oblivious Hash Left Anti Semi (Not-In) Join
-* Implement Parallel-aware Hash Left Anti Semi (Not-In) Join
-* Fix wrong results of Left Anti Semi (Not-In) Join
-* Add motionhazard to the outer side of parallel aware join.(fix flaky incorrect results of agg)
-* Refactor cdbpath_motion_for_parallel_join() by outer join inner style
-* Open proper AO/AOCS segment files according to data volume
-* Fix AO/AOCS insertDesc memory issue
-* Fix segfilecount of AO/AOCO when bulk insertion: COPY 
+* [Parallel DEDUP_SEMI and DEDUP_SEMI_REVERSE Join.](https://github.com/apache/cloudberry/pull/653)
+* [Make UNION Parallel.](https://github.com/apache/cloudberry/pull/1213)
+* [Parallel DISTINCT plan of multi-stage.](https://github.com/apache/cloudberry/pull/1173)
+* [Parallel-oblivious Hash Left Anti Semi (Not-In) Join](https://github.com/apache/cloudberry/pull/30)
+* [Implement Parallel-aware Hash Left Anti Semi (Not-In) Join](https://github.com/apache/cloudberry/pull/149)
+* [Fix wrong results of Left Anti Semi (Not-In) Join](https://github.com/apache/cloudberry/pull/130)
+* [Add motionhazard to the outer side of parallel aware join.(fix flaky incorrect results of agg)](https://github.com/apache/cloudberry/pull/284)
+* [Refactor cdbpath_motion_for_parallel_join() by outer join inner style](https://github.com/apache/cloudberry/pull/98)
+* [Open proper AO/AOCS segment files according to data volume](https://github.com/apache/cloudberry/pull/248)
+* [Fix AO/AOCS insertDesc memory issue](https://github.com/apache/cloudberry/pull/365)
+* [Fix segfilecount of AO/AOCO when bulk insertion: COPY](https://github.com/apache/cloudberry/pull/530)
+
 
 #### Other Features:
-* [Feature] Dynamic Table.
-* Let Replicated locus join with others(Results of writeable CTE on replicated table Join with others)
-* Enable SingleQE join with SegmentGeneralWorkers 
-* Implement 3-phase aggregation with DEDUP HashAgg for DISTINCT. 
-* Optimize DISTINCT, ORDER BY and DISTINCT ON when Aggregation without Group By. 
+* [[Feature] Dynamic Table.](https://github.com/apache/cloudberry/pull/725)
+* [Let Replicated locus join with others(Results of writeable CTE on replicated table Join with others)](https://github.com/apache/cloudberry/pull/84)
+* [Enable SingleQE join with SegmentGeneralWorkers](https://github.com/apache/cloudberry/pull/327)
+* [Implement 3-phase aggregation with DEDUP HashAgg for DISTINCT.](https://github.com/apache/cloudberry/pull/676)
+* [Optimize DISTINCT, ORDER BY and DISTINCT ON when Aggregation without Group By.](https://github.com/apache/cloudberry/pull/685)
+
 
 # A Journey of Passion: My Story (Chinese)
   * [第三位中国成员！CloudberryDB 核心开发者张明礼入选 PostgreSQL Contributor 名单](https://mp.weixin.qq.com/s/zTC1qXAe4M9XkDXp-2LEyw)
